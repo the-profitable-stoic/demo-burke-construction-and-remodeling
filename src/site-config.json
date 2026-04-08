@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Burke Construction and Remodeling",
+    "phone": "+12159139721",
+    "category": "home remodeler",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Premier Remodeling Experts",
+      "heroSubline": "Transforming Philadelphia homes with quality craftsmanship and unwavering dedication. From rowhouse renovations to condo overhauls, we handle it all.",
+      "aboutTitle": "Built on Trust, Driven by Quality",
+      "aboutText": [
+        "Burke Construction and Remodeling started with a simple goal: to provide Philadelphia homeowners with reliable, high-quality remodeling services. We saw a need for contractors who understood the unique challenges of Philly's diverse housing stock and weather conditions.",
+        "Our approach is straightforward. We listen to your needs, develop a detailed plan, and execute it with precision. We value clear communication, transparency, and a commitment to exceeding expectations. We treat every project, big or small, with the same level of care and attention.",
+        "We're proud to be a part of the Philadelphia community. We source materials locally whenever possible and support local businesses. Our team lives and works here, and we're invested in making Philadelphia a better place, one home at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Philadelphia's architecture and building codes."
+        },
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Skilled team with years of experience in all aspects of remodeling."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work and ensure your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Ready to Reimagine Your Home?",
+      "ctaSubline": "Contact Burke Construction and Remodeling today for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Philadelphia home.",
+        "description": "The kitchen is more than just a place to cook; it's a gathering space, a place for memories, and often the most valuable room in your home. Burke Construction and Remodeling specializes in creating custom kitchens that are both beautiful and functional, perfectly tailored to your lifestyle and the unique character of your Philadelphia home.\n\nFrom modernizing outdated layouts in Rittenhouse Square condos to gutting and renovating classic kitchens in West Philly twins, we handle every aspect of the project. This includes design, demolition, cabinet installation, countertop fabrication, plumbing, electrical work, and appliance installation. We source high-quality materials that can withstand the rigors of daily use, considering Philadelphia's climate and the potential for freeze-thaw cycles.\n\nWe work closely with you throughout the entire process, ensuring that your vision is brought to life. Whether you're dreaming of a sleek, contemporary kitchen or a warm, traditional space, we have the expertise to make it a reality. We obtain all necessary permits and adhere to strict building codes, providing you with peace of mind.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your needs and create a custom design plan.",
+          "Step 2: Demolition and Preparation – Remove old fixtures and prepare the space for remodeling.",
+          "Step 3: Installation and Construction – Install new cabinets, countertops, appliances, and flooring.",
+          "Step 4: Finishing Touches – Add paint, lighting, and other details to complete the project."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetic appeal",
+          "Customized to your needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks."
+          },
+          {
+            "question": "Do I need to obtain permits for a kitchen remodel?",
+            "answer": "Yes, in most cases, permits are required for kitchen remodels. We handle the permit process for you."
+          },
+          {
+            "question": "What is the average cost of a kitchen remodel in Philadelphia?",
+            "answer": "The cost depends on the size and complexity of the project, but we provide detailed estimates upfront so you know exactly what to expect."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Philadelphia home with our expert bathroom remodeling services.",
+        "description": "Burke Construction and Remodeling transforms outdated bathrooms into modern, functional spaces. We understand the challenges of remodeling bathrooms in Philadelphia’s older homes, from dealing with tight spaces in rowhouses to preserving the character of Victorian-era fixtures. We specialize in bathroom renovations that maximize space, improve functionality, and enhance the overall aesthetic of your home.\n\nOur services include everything from simple cosmetic updates to complete bathroom overhauls. We handle plumbing, electrical work, tile installation, shower and tub replacements, vanity installation, and more. We also specialize in creating accessible bathrooms for homeowners with mobility issues.\n\nWe use high-quality, water-resistant materials to ensure that your new bathroom can withstand the humidity and moisture that are common in Philadelphia. We also pay close attention to ventilation to prevent mold and mildew growth. Let us transform your bathroom into a relaxing oasis that you'll enjoy for years to come.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision and create a detailed design plan.",
+          "Step 2: Demolition and Prep Work – Remove existing fixtures and prepare the space.",
+          "Step 3: Plumbing and Electrical – Update plumbing and electrical systems as needed.",
+          "Step 4: Installation and Finishing – Install new fixtures, tile, and paint to complete the remodel."
+        ],
+        "benefits": [
+          "Increased comfort and relaxation",
+          "Improved home value",
+          "Enhanced functionality",
+          "Water conservation"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me design my new bathroom?",
+            "answer": "Yes, we offer design services to help you create the perfect bathroom for your needs and style."
+          },
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "Bathroom remodels typically take 2-4 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "We can discuss financing options during your consultation."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Unlock the potential of your basement with our professional finishing services.",
+        "description": "Many Philadelphia homes have unfinished basements that can be transformed into valuable living spaces. Burke Construction and Remodeling specializes in basement finishing, creating custom spaces that add value and functionality to your home. Whether you're looking to create a home theater, a playroom, a home office, or an extra bedroom, we can help you design and build the perfect basement for your needs.\n\nBasement finishing in Philadelphia requires careful attention to moisture control and insulation. We use moisture-resistant materials and proper insulation techniques to prevent mold and mildew growth and keep your basement comfortable year-round. We also handle all necessary plumbing and electrical work, ensuring that your finished basement meets all building codes.\n\nWe work closely with you throughout the entire process, from design to completion. We obtain all necessary permits and inspections, providing you with peace of mind.",
+        "process": [
+          "Step 1: Initial Consultation and Design – Discuss your vision and create a detailed plan.",
+          "Step 2: Waterproofing and Insulation – Ensure the basement is properly waterproofed and insulated.",
+          "Step 3: Framing and Electrical – Frame the walls and install electrical wiring.",
+          "Step 4: Finishing Touches – Install drywall, flooring, and paint to complete the project."
+        ],
+        "benefits": [
+          "Increased living space",
+          "Increased home value",
+          "Customized to your needs",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Is it worth finishing my basement?",
+            "answer": "Yes, finishing your basement can significantly increase your home's value and provide valuable additional living space."
+          },
+          {
+            "question": "What permits are required for basement finishing?",
+            "answer": "Permits are typically required for basement finishing, and we handle the permit process for you."
+          },
+          {
+            "question": "How long does basement finishing take?",
+            "answer": "Basement finishing typically takes 4-8 weeks, depending on the size and complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole-House Remodeling",
+        "shortDescription": "Transform your entire Philadelphia home with our comprehensive remodeling services.",
+        "description": "Burke Construction and Remodeling specializes in whole-house remodeling, transforming outdated homes into modern, functional, and beautiful living spaces. Whether you're looking to update your home's interior, exterior, or both, we have the expertise to handle every aspect of the project. We understand the unique challenges of remodeling older homes in Philadelphia, from dealing with historic architecture to navigating strict building codes.\n\nOur services include everything from kitchen and bathroom remodels to basement finishing and exterior renovations. We work closely with you throughout the entire process, from initial design to final walkthrough, ensuring that your vision is brought to life. We obtain all necessary permits and adhere to strict building codes, providing you with peace of mind.\n\nWe use high-quality materials and skilled craftsmen to ensure that your whole-house remodel is built to last. We also pay close attention to detail, ensuring that every aspect of your home is finished to perfection.",
+        "process": [
+          "Step 1: Consultation and Planning – Discuss your goals and create a comprehensive plan.",
+          "Step 2: Design and Permitting – Develop detailed designs and obtain all necessary permits.",
+          "Step 3: Construction and Remodeling – Execute the remodel with precision and care.",
+          "Step 4: Final Walkthrough – Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality",
+          "Enhanced aesthetic appeal",
+          "Customized to your lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How much does a whole-house remodel cost?",
+            "answer": "The cost of a whole-house remodel varies depending on the size and scope of the project. We provide detailed estimates upfront so you know exactly what to expect."
+          },
+          {
+            "question": "How long does a whole-house remodel take?",
+            "answer": "Whole-house remodels typically take several months, depending on the complexity of the project."
+          },
+          {
+            "question": "Will I need to move out during the remodel?",
+            "answer": "In many cases, it is necessary to move out during a whole-house remodel. We can discuss your options during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "historic-renovation",
+        "name": "Historic Renovation",
+        "shortDescription": "Preserving Philadelphia's architectural heritage with expert historic renovation services.",
+        "description": "Philadelphia's rich history is reflected in its diverse architecture. Burke Construction and Remodeling has a passion for preserving this heritage while updating historic homes for modern living. We understand the unique challenges and considerations involved in historic renovation, from adhering to strict preservation guidelines to using historically appropriate materials and techniques.\n\nWe work closely with homeowners and preservation organizations to ensure that our renovations respect the original character of the building while meeting the needs of today's homeowners. Our services include everything from restoring original woodwork and plaster to updating plumbing and electrical systems while maintaining their historic integrity. We are experienced in working with a variety of historic architectural styles, including Victorian, Federal, and Colonial.\n\nWe obtain all necessary permits and approvals from local historic preservation agencies, providing you with peace of mind. We use high-quality materials and skilled craftsmen to ensure that your historic renovation is both beautiful and historically accurate.",
+        "process": [
+          "Step 1: Historical Assessment – Evaluate the building's historical significance and identify areas for restoration.",
+          "Step 2: Design and Permitting – Develop a restoration plan that meets preservation guidelines and obtain necessary permits.",
+          "Step 3: Restoration and Repair – Restore original features and repair damaged elements.",
+          "Step 4: Modernization and Upgrades – Update systems while maintaining historical integrity."
+        ],
+        "benefits": [
+          "Preservation of historical value",
+          "Increased property value",
+          "Modern comfort and convenience",
+          "Respect for architectural heritage"
+        ],
+        "faq": [
+          {
+            "question": "What are the challenges of historic renovation?",
+            "answer": "Historic renovation requires specialized knowledge and skills to preserve the building's original character while meeting modern building codes."
+          },
+          {
+            "question": "How do I find qualified contractors for historic renovation?",
+            "answer": "Look for contractors with experience in historic preservation and a proven track record of successful projects."
+          },
+          {
+            "question": "What permits are required for historic renovation?",
+            "answer": "Historic renovation projects often require special permits and approvals from local preservation agencies."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Philadelphia home with our reliable roofing repair and replacement services.",
+        "description": "Burke Construction and Remodeling provides comprehensive roofing services to protect your Philadelphia home from the elements. Whether you need a minor repair, a complete roof replacement, or routine maintenance, we have the expertise to handle any roofing project. We understand the unique challenges of roofing in Philadelphia, from dealing with harsh weather conditions to working on historic buildings with unique roofing systems.\n\nWe offer a variety of roofing materials, including asphalt shingles, slate, tile, and metal. We use high-quality materials and skilled craftsmen to ensure that your roof is built to last. We also offer emergency roofing services for homeowners who need immediate assistance after a storm or other disaster.\n\nWe provide free roof inspections and estimates. We will assess your roof's condition and recommend the best course of action to protect your home. We obtain all necessary permits and adhere to strict building codes, providing you with peace of mind.",
+        "process": [
+          "Step 1: Roof Inspection – Assess the condition of your roof and identify any damage.",
+          "Step 2: Estimate and Proposal – Provide a detailed estimate for the necessary repairs or replacement.",
+          "Step 3: Roofing Services – Execute the roofing project efficiently and with quality craftsmanship.",
+          "Step 4: Final Inspection – Ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "It is recommended to have your roof inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What are the signs that I need a new roof?",
+            "answer": "Signs that you may need a new roof include leaks, missing shingles, and excessive granule loss."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "Roof replacements typically take 1-3 days, depending on the size and complexity of the project."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is proud to offer its comprehensive remodeling services to homeowners throughout Philadelphia. From historic row homes in South Philly to modern condos in Center City, we have the experience and expertise to handle any project, big or small. We understand the unique architectural styles and building codes of Philadelphia and are committed to providing high-quality craftsmanship and exceptional customer service. \n\nWhether you're looking to renovate your kitchen, update your bathroom, or completely remodel your home, Burke Construction and Remodeling is the team you can trust. We work closely with our clients to understand their vision and bring it to life, on time and within budget. Our commitment to excellence ensures a smooth and stress-free remodeling experience for every homeowner in Philadelphia.",
+        "localContext": "Philadelphia, a city steeped in history and vibrant culture, boasts diverse neighborhoods each with its own distinct character and architectural styles, requiring a nuanced approach to home remodeling.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bala Cynwyd"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling extends its premier remodeling services to the vibrant community of Upper Darby. Known for its diverse population and varied housing stock, Upper Darby presents unique opportunities for home improvement and renovation. We are dedicated to providing tailored solutions that meet the specific needs and preferences of Upper Darby residents. \n\nFrom updating kitchens and bathrooms to completing whole-house renovations, Burke Construction and Remodeling is committed to delivering exceptional results. We understand the importance of quality craftsmanship and attention to detail, ensuring that every project enhances the beauty and functionality of your home. We pride ourselves on our transparent communication and reliable service, making us the trusted choice for remodeling in Upper Darby.",
+        "localContext": "Upper Darby, a diverse and bustling township bordering Philadelphia, offers a mix of housing styles, from older homes needing modernization to newer developments seeking customized upgrades.",
+        "nearbyAreas": [
+          "Drexel Hill",
+          "Lansdowne",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bala Cynwyd",
+        "slug": "bala-cynwyd-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is pleased to offer its expert remodeling services to the residents of Bala Cynwyd. Known for its beautiful homes and affluent community, Bala Cynwyd deserves only the highest quality craftsmanship and attention to detail. We are committed to providing personalized solutions that enhance the value and enjoyment of your home.\n\nWhether you're looking to update your kitchen, renovate your bathroom, or create a luxurious outdoor living space, Burke Construction and Remodeling has the experience and expertise to bring your vision to life. We understand the unique architectural styles and building codes of Bala Cynwyd and are dedicated to providing exceptional customer service. We take pride in transforming houses into dream homes.",
+        "localContext": "Bala Cynwyd, an affluent suburb of Philadelphia, showcases elegant homes and a discerning clientele who appreciate high-end finishes and meticulous attention to detail in their remodeling projects.",
+        "nearbyAreas": [
+          "Narberth",
+          "Wynnewood",
+          "Merion Station"
+        ]
+      },
+      {
+        "city": "Ardmore",
+        "slug": "ardmore-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is dedicated to providing top-notch remodeling services to the residents of Ardmore. With its charming downtown and beautiful homes, Ardmore is a wonderful place to live, and we are proud to help homeowners enhance their living spaces. We offer a wide range of services, from kitchen and bathroom renovations to whole-house remodels.\n\nOur team of experienced professionals is committed to delivering exceptional results that meet your specific needs and preferences. We understand the importance of clear communication and reliable service, ensuring a smooth and stress-free remodeling experience. Let Burke Construction and Remodeling transform your Ardmore home into the home of your dreams.",
+        "localContext": "Ardmore, a vibrant and walkable town on the Main Line, features a mix of historic and modern homes, demanding a versatile approach to remodeling that respects the town's character.",
+        "nearbyAreas": [
+          "Haverford",
+          "Bryn Mawr",
+          "Wynnewood"
+        ]
+      },
+      {
+        "city": "Bryn Mawr",
+        "slug": "bryn-mawr-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling proudly serves the Bryn Mawr community, providing expert remodeling services tailored to the unique needs of its residents. Known for its prestigious colleges and beautiful homes, Bryn Mawr deserves the highest standards of craftsmanship and attention to detail. We are committed to delivering exceptional results that enhance the value and enjoyment of your home.\n\nFrom kitchen and bathroom renovations to whole-house remodels and additions, Burke Construction and Remodeling has the experience and expertise to bring your vision to life. We understand the importance of clear communication and reliable service, ensuring a smooth and stress-free remodeling experience. Trust us to transform your Bryn Mawr home into a stunning and functional living space.",
+        "localContext": "Bryn Mawr, an affluent Main Line community known for its prestigious colleges and stately homes, requires a sophisticated remodeling approach that respects the area's architectural heritage.",
+        "nearbyAreas": [
+          "Rosemont",
+          "Villanova",
+          "Haverford"
+        ]
+      },
+      {
+        "city": "Haverford",
+        "slug": "haverford-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is pleased to extend its high-quality remodeling services to the residents of Haverford. With its beautiful homes and charming atmosphere, Haverford is a desirable place to live, and we are dedicated to helping homeowners create their dream living spaces. We offer a comprehensive range of remodeling services, from kitchen and bathroom renovations to whole-house remodels and additions.\n\nOur team of skilled professionals is committed to delivering exceptional results that meet your specific needs and preferences. We understand the importance of clear communication and reliable service, ensuring a smooth and stress-free remodeling experience. Let Burke Construction and Remodeling transform your Haverford home into a beautiful and functional space that you will love for years to come.",
+        "localContext": "Haverford, a prestigious Main Line community boasting historic estates and manicured landscapes, demands a remodeling approach that emphasizes quality materials and timeless design.",
+        "nearbyAreas": [
+          "Bryn Mawr",
+          "Ardmore",
+          "Wynnewood"
+        ]
+      },
+      {
+        "city": "Wayne",
+        "slug": "wayne-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is delighted to offer its expert remodeling services to the residents of Wayne. Known for its upscale shopping, dining, and beautiful homes, Wayne deserves only the highest quality craftsmanship and attention to detail. We are committed to providing personalized solutions that enhance the value and enjoyment of your home.\n\nWhether you're looking to update your kitchen, renovate your bathroom, or create a luxurious outdoor living space, Burke Construction and Remodeling has the experience and expertise to bring your vision to life. We understand the unique architectural styles and building codes of Wayne and are dedicated to providing exceptional customer service. We take pride in transforming houses into dream homes.",
+        "localContext": "Wayne, a charming Main Line town with a vibrant commercial district and elegant residences, benefits from remodeling that enhances both its historic charm and modern living needs.",
+        "nearbyAreas": [
+          "Radnor",
+          "Devon",
+          "Berwyn"
+        ]
+      },
+      {
+        "city": "Springfield",
+        "slug": "springfield-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is proud to offer its remodeling services to the residents of Springfield. From kitchen and bathroom renovations to whole house remodels, we have the experience and expertise to handle any project, big or small. We understand the architectural styles of Springfield and are committed to providing high-quality craftsmanship and exceptional customer service. \n\nWhether you're looking to update your kitchen, create a more functional bathroom, or completely remodel your home, Burke Construction and Remodeling is the team you can trust. We work closely with our clients to understand their vision and bring it to life, on time and within budget. Our commitment to excellence ensures a smooth and stress-free remodeling experience for every homeowner in Springfield.",
+        "localContext": "Springfield, PA, a family-friendly suburb of Philadelphia, features diverse housing styles, making it essential for remodeling projects to consider the unique character of each home.",
+        "nearbyAreas": [
+          "Swarthmore",
+          "Morton",
+          "Media"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Burke Construction and Remodeling is pleased to offer its expert remodeling services to the residents of Drexel Hill. Known for its family-friendly atmosphere and diverse housing options, Drexel Hill offers many opportunities for home improvement and renovation. We are dedicated to providing tailored solutions that meet the specific needs and preferences of Drexel Hill residents. \n\nFrom updating kitchens and bathrooms to completing whole-house renovations, Burke Construction and Remodeling is committed to delivering exceptional results. We understand the importance of quality craftsmanship and attention to detail, ensuring that every project enhances the beauty and functionality of your home. We pride ourselves on our transparent communication and reliable service, making us the trusted choice for remodeling in Drexel Hill.",
+        "localContext": "Drexel Hill, a vibrant community in Delaware County, PA, boasts a mix of housing styles, requiring a thoughtful remodeling approach that respects the area's unique character.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Havertown",
+          "Springfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Burke Construction transformed my cramped, outdated kitchen into a beautiful and functional space. They listened to my needs and created a design that perfectly fits my lifestyle. The team was professional, courteous, and always on time. I highly recommend them!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "I hired Burke Construction to remodel my master bathroom, and I'm very happy with the results. The quality of the workmanship is excellent, and the team was very responsive to my questions and concerns. There were a few minor delays, but overall, it was a great experience.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Burke Construction finished my basement, and it's now the favorite room in the house! They created a beautiful and functional space that my family loves. The team was professional, efficient, and always kept me informed of the progress. They handled the Philadelphia permits with ease.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Whole-House Remodel",
+        "text": "We needed a full remodel of our Victorian twin in West Philly, and Burke Construction delivered beyond our expectations. They managed everything from the initial design to the final touches, dealing with all the quirks of an older Philadelphia home. Excellent communication and craftsmanship!",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Roofing Services",
+        "text": "Burke Construction replaced my roof after a bad storm, and I was very impressed with their professionalism. They provided a detailed estimate and completed the work quickly and efficiently. The team was courteous and respectful of my property.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Thomas B.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "From start to finish, Burke Construction was fantastic. They helped us design our dream kitchen and executed the plan flawlessly. The team was reliable, communicative, and the quality of work exceeded our expectations. Living in a rowhouse in Fishtown presented some unique challenges, but they handled it all with professionalism.",
+        "date": "2025-01-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Burke Construction | Philly Remodeler",
+        "description": "Top Philadelphia remodeler. Kitchens, bathrooms, basements, historic renovations. Expert craftsmanship, local expertise."
+      },
+      "about": {
+        "title": "About Burke Construction & Remodeling",
+        "description": "Learn about Burke Construction and Remodeling's values, experience, and commitment to Philadelphia homeowners."
+      },
+      "services": {
+        "title": "Burke Construction Services",
+        "description": "Explore Burke Construction's remodeling services: kitchens, bathrooms, basements, roofing & more in Philadelphia."
+      },
+      "contact": {
+        "title": "Contact Burke Construction Today",
+        "description": "Contact Burke Construction for a free consultation on your Philadelphia remodeling project. Call us now!"
+      },
+      "reviews": {
+        "title": "Burke Construction Customer Reviews",
+        "description": "Read what our satisfied customers are saying about Burke Construction's remodeling services in Philadelphia."
+      },
+      "service-areas": {
+        "title": "Burke Construction Service Areas",
+        "description": "Burke Construction provides remodeling services throughout Philadelphia and surrounding areas. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "historic-renovation": "/images/service-historic-renovation.webp",
+      "roofing-services": "/images/service-roofing-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "historic-renovation": {
+        "src": "/images/service-historic-renovation.webp",
+        "srcset": "/images/service-historic-renovation-400w.webp 400w, /images/service-historic-renovation-800w.webp 800w, /images/service-historic-renovation-1200w.webp 1200w, /images/service-historic-renovation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
